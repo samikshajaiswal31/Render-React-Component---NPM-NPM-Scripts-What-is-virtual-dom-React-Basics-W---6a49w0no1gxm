@@ -4,4 +4,4 @@ import App from "./components/App";
 
 
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<p>I am learning React. My life is getting better.</p>, document.getElementById("root"));
